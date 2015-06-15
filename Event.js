@@ -91,6 +91,8 @@ var Event = function(){
 		data._sub_time = Date.now();
 		return data;
 	};
+	
+	// from here http://stackoverflow.com/questions/19098797/fastest-way-to-flatten-un-flatten-nested-json-objects
 	var _unflatten = function(data) {
 	    if (Object(data) !== data || Array.isArray(data)){
 	        return data;
