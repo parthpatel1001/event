@@ -48,5 +48,3 @@ subscriber db420780-1158-11e5-a605-fd1c6b6c5bbc cb called for event db422e93-115
 1434150903822 'event' 'db422e93-1158-11e5-a605-fd1c6b6c5bbc' 'was locked for' 'db422e92-1158-11e5-a605-fd1c6b6c5bbc'
 */
 ```
-
-## A lot of shit is not yet documented
